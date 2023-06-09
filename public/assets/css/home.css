@@ -1,0 +1,97 @@
+
+body
+{
+    font-family: 'Roboto Slab';
+    background-color: #F1F3DE;
+}
+.nav-bg
+{
+    background-color: #eb8f8fd0;
+}
+.font-navbar-title
+{
+    color : white;
+    font-style: bold;
+    font-weight: 600;
+    font-size: 25px;
+}
+.font-color-link
+{
+    color : white;
+    font-style: bold;
+    font-weight: 400;
+    font-size: 16px;
+}
+.font-home-judul
+{
+    font-weight: 500;
+    font-size: 25px;
+}
+.card-text-home
+{
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+
+}
+.layer-color
+{
+    background-color: rgba(192, 144, 144, 0.678);
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    
+}
+.bg-image 
+{
+    border-radius: 6px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.garis-judul
+{
+    border-bottom: solid 2.5px #968484; 
+    width : 210px
+}
+.image-size-artikel-home
+{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-radius: 20px;
+}
+.image-size-artikel-home:hover
+{
+    transform: scale(1.5);
+}
+.footer-bg
+{
+    color: white;
+    background-color: rgb(65, 63, 63);
+}
+.font-size-artikel
+{
+        font-style: bold;
+        font-weight: 500;
+        font-size: 20px;
+}
+.font-judul-artikel
+{
+    font-style: bold;
+    font-weight: 500;
+    font-size: 25px;
+}
+.size-image-artikel-detail
+{
+    width: 200px;
+    height: 200px;
+}
+.brd-artikel
+{
+    border-right: solid 2px rgb(119, 114, 114);
+}
+.size-image-artikel-show
+{
+    width: 150px;
+    height: 150px;
+}

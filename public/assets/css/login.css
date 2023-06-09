@@ -1,0 +1,25 @@
+body
+{
+    font-family: 'Roboto Slab';
+    background-color: #F1F3DE;
+}
+.bg-image 
+{
+    border-radius: 6px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.layer-second
+{
+    background-color: rgba(192, 144, 144, 0.678);
+}
+.font-login-judul
+{
+    color: rgb(17, 17, 17);
+    font-weight: 600;
+    font-size: 23px;
+}
+.badge-danger
+{
+    background-color: red;
+}
